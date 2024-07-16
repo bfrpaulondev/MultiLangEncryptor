@@ -13,4 +13,4 @@ This is an educational project to demonstrate how a simple ransomware works in P
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/seu-usuario/simple-ransomware.git
+git clone https://github.com/bfrpaulondev/simple-ransomware.git
